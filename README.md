@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/smishra0606/leetcode-mastery/tree/master/0025-reverse-nodes-in-k-group) |
 | [0509-fibonacci-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/smishra0606/leetcode-mastery/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
