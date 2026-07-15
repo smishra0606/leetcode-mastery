@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0287-find-the-duplicate-number) |
+| [0735-asteroid-collision](https://github.com/smishra0606/leetcode-mastery/tree/master/0735-asteroid-collision) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/smishra0606/leetcode-mastery/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -67,4 +68,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/smishra0606/leetcode-mastery/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/smishra0606/leetcode-mastery/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/smishra0606/leetcode-mastery/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
