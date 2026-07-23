@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/smishra0606/leetcode-mastery/tree/master/0148-sort-list) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/smishra0606/leetcode-mastery/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/smishra0606/leetcode-mastery/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/smishra0606/leetcode-mastery/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/smishra0606/leetcode-mastery/tree/master/0938-range-sum-of-bst) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/smishra0606/leetcode-mastery/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/smishra0606/leetcode-mastery/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/smishra0606/leetcode-mastery/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/smishra0606/leetcode-mastery/tree/master/0547-number-of-provinces) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/smishra0606/leetcode-mastery/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/smishra0606/leetcode-mastery/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/smishra0606/leetcode-mastery/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/smishra0606/leetcode-mastery/tree/master/0938-range-sum-of-bst) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/smishra0606/leetcode-mastery/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
