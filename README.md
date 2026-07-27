@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0287-find-the-duplicate-number) |
 | [0733-flood-fill](https://github.com/smishra0606/leetcode-mastery/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/smishra0606/leetcode-mastery/tree/master/0735-asteroid-collision) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/smishra0606/leetcode-mastery/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/smishra0606/leetcode-mastery/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2073-time-needed-to-buy-tickets](https://github.com/smishra0606/leetcode-mastery/tree/master/2073-time-needed-to-buy-tickets) |
 ## Two Pointers
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/smishra0606/leetcode-mastery/tree/master/0148-sort-list) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/smishra0606/leetcode-mastery/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/smishra0606/leetcode-mastery/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Merge Sort
 |  |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/smishra0606/leetcode-mastery/tree/master/2073-time-needed-to-buy-tickets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/smishra0606/leetcode-mastery/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
