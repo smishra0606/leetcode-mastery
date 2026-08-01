@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/smishra0606/leetcode-mastery/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/smishra0606/leetcode-mastery/tree/master/0118-pascals-triangle) |
 | [0287-find-the-duplicate-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0287-find-the-duplicate-number) |
 | [0733-flood-fill](https://github.com/smishra0606/leetcode-mastery/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/smishra0606/leetcode-mastery/tree/master/0735-asteroid-collision) |
