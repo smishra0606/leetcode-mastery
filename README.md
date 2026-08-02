@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/smishra0606/leetcode-mastery/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/smishra0606/leetcode-mastery/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/smishra0606/leetcode-mastery/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/smishra0606/leetcode-mastery/tree/master/0633-sum-of-square-numbers) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/smishra0606/leetcode-mastery/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/smishra0606/leetcode-mastery/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
