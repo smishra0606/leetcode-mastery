@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/smishra0606/leetcode-mastery/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/smishra0606/leetcode-mastery/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/smishra0606/leetcode-mastery/tree/master/0877-stone-game) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/smishra0606/leetcode-mastery/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/smishra0606/leetcode-mastery/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/smishra0606/leetcode-mastery/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/smishra0606/leetcode-mastery/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/smishra0606/leetcode-mastery/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/smishra0606/leetcode-mastery/tree/master/0735-asteroid-collision) |
 | [2073-time-needed-to-buy-tickets](https://github.com/smishra0606/leetcode-mastery/tree/master/2073-time-needed-to-buy-tickets) |
 ## Tree
