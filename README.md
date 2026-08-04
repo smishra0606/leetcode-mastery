@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/smishra0606/leetcode-mastery/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/smishra0606/leetcode-mastery/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/smishra0606/leetcode-mastery/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/smishra0606/leetcode-mastery/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/smishra0606/leetcode-mastery/tree/master/0633-sum-of-square-numbers) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/smishra0606/leetcode-mastery/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/smishra0606/leetcode-mastery/tree/master/0092-reverse-linked-list-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/smishra0606/leetcode-mastery/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/smishra0606/leetcode-mastery/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/smishra0606/leetcode-mastery/tree/master/0237-delete-node-in-a-linked-list) |
 ## Divide and Conquer
@@ -200,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/smishra0606/leetcode-mastery/tree/master/0877-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/smishra0606/leetcode-mastery/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/smishra0606/leetcode-mastery/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
