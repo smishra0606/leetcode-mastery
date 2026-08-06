@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/smishra0606/leetcode-mastery/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/smishra0606/leetcode-mastery/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/smishra0606/leetcode-mastery/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/smishra0606/leetcode-mastery/tree/master/0877-stone-game) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/smishra0606/leetcode-mastery/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/smishra0606/leetcode-mastery/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/smishra0606/leetcode-mastery/tree/master/0735-asteroid-collision) |
 | [2073-time-needed-to-buy-tickets](https://github.com/smishra0606/leetcode-mastery/tree/master/2073-time-needed-to-buy-tickets) |
 ## Tree
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/smishra0606/leetcode-mastery/tree/master/0155-min-stack) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/smishra0606/leetcode-mastery/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
