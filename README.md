@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/smishra0606/leetcode-mastery/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/smishra0606/leetcode-mastery/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/smishra0606/leetcode-mastery/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/smishra0606/leetcode-mastery/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/smishra0606/leetcode-mastery/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2073-time-needed-to-buy-tickets](https://github.com/smishra0606/leetcode-mastery/tree/master/2073-time-needed-to-buy-tickets) |
 | [2239-find-closest-number-to-zero](https://github.com/smishra0606/leetcode-mastery/tree/master/2239-find-closest-number-to-zero) |
@@ -98,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/smishra0606/leetcode-mastery/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/smishra0606/leetcode-mastery/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/smishra0606/leetcode-mastery/tree/master/0735-asteroid-collision) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/smishra0606/leetcode-mastery/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/smishra0606/leetcode-mastery/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/smishra0606/leetcode-mastery/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/smishra0606/leetcode-mastery/tree/master/0735-asteroid-collision) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/smishra0606/leetcode-mastery/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/smishra0606/leetcode-mastery/tree/master/2073-time-needed-to-buy-tickets) |
 ## Tree
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/smishra0606/leetcode-mastery/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/smishra0606/leetcode-mastery/tree/master/2073-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
