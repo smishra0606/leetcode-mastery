@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/smishra0606/leetcode-mastery/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/smishra0606/leetcode-mastery/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/smishra0606/leetcode-mastery/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/smishra0606/leetcode-mastery/tree/master/0225-implement-stack-using-queues) |
 | [0735-asteroid-collision](https://github.com/smishra0606/leetcode-mastery/tree/master/0735-asteroid-collision) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/smishra0606/leetcode-mastery/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/smishra0606/leetcode-mastery/tree/master/0225-implement-stack-using-queues) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/smishra0606/leetcode-mastery/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/smishra0606/leetcode-mastery/tree/master/2073-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/smishra0606/leetcode-mastery/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/smishra0606/leetcode-mastery/tree/master/0225-implement-stack-using-queues) |
 ## Number Theory
 |  |
 | ------- |
