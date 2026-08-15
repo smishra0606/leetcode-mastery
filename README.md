@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/smishra0606/leetcode-mastery/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2073-time-needed-to-buy-tickets](https://github.com/smishra0606/leetcode-mastery/tree/master/2073-time-needed-to-buy-tickets) |
 | [2239-find-closest-number-to-zero](https://github.com/smishra0606/leetcode-mastery/tree/master/2239-find-closest-number-to-zero) |
+| [2241-design-an-atm-machine](https://github.com/smishra0606/leetcode-mastery/tree/master/2241-design-an-atm-machine) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/smishra0606/leetcode-mastery/tree/master/0011-container-with-most-water) |
+| [2241-design-an-atm-machine](https://github.com/smishra0606/leetcode-mastery/tree/master/2241-design-an-atm-machine) |
 ## Game Theory
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/smishra0606/leetcode-mastery/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/smishra0606/leetcode-mastery/tree/master/0225-implement-stack-using-queues) |
+| [2241-design-an-atm-machine](https://github.com/smishra0606/leetcode-mastery/tree/master/2241-design-an-atm-machine) |
 ## Number Theory
 |  |
 | ------- |
