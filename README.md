@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/smishra0606/leetcode-mastery/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/smishra0606/leetcode-mastery/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1137-n-th-tribonacci-number](https://github.com/smishra0606/leetcode-mastery/tree/master/1137-n-th-tribonacci-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/smishra0606/leetcode-mastery/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -280,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/smishra0606/leetcode-mastery/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/smishra0606/leetcode-mastery/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
