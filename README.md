@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/smishra0606/leetcode-mastery/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/smishra0606/leetcode-mastery/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/smishra0606/leetcode-mastery/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/smishra0606/leetcode-mastery/tree/master/1137-n-th-tribonacci-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/smishra0606/leetcode-mastery/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/smishra0606/leetcode-mastery/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/smishra0606/leetcode-mastery/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/smishra0606/leetcode-mastery/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0287-find-the-duplicate-number) |
 | [0733-flood-fill](https://github.com/smishra0606/leetcode-mastery/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/smishra0606/leetcode-mastery/tree/master/0735-asteroid-collision) |
