@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/smishra0606/leetcode-mastery/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/smishra0606/leetcode-mastery/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/smishra0606/leetcode-mastery/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/smishra0606/leetcode-mastery/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0287-find-the-duplicate-number) |
 | [0733-flood-fill](https://github.com/smishra0606/leetcode-mastery/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/smishra0606/leetcode-mastery/tree/master/0735-asteroid-collision) |
@@ -88,10 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/smishra0606/leetcode-mastery/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/smishra0606/leetcode-mastery/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/smishra0606/leetcode-mastery/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/smishra0606/leetcode-mastery/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/smishra0606/leetcode-mastery/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/smishra0606/leetcode-mastery/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/smishra0606/leetcode-mastery/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Merge Sort
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/smishra0606/leetcode-mastery/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/smishra0606/leetcode-mastery/tree/master/0169-majority-element) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/smishra0606/leetcode-mastery/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/smishra0606/leetcode-mastery/tree/master/0169-majority-element) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/smishra0606/leetcode-mastery/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Euclidean Algorithm
 |  |
@@ -287,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/smishra0606/leetcode-mastery/tree/master/3345-smallest-divisible-digit-product-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/smishra0606/leetcode-mastery/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
