@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/smishra0606/leetcode-mastery/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/smishra0606/leetcode-mastery/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/smishra0606/leetcode-mastery/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/smishra0606/leetcode-mastery/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0287-find-the-duplicate-number) |
 | [0733-flood-fill](https://github.com/smishra0606/leetcode-mastery/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/smishra0606/leetcode-mastery/tree/master/0735-asteroid-collision) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/smishra0606/leetcode-mastery/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/smishra0606/leetcode-mastery/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/smishra0606/leetcode-mastery/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/smishra0606/leetcode-mastery/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/smishra0606/leetcode-mastery/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
