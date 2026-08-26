@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/smishra0606/leetcode-mastery/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/smishra0606/leetcode-mastery/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/smishra0606/leetcode-mastery/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/smishra0606/leetcode-mastery/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/smishra0606/leetcode-mastery/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/smishra0606/leetcode-mastery/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/smishra0606/leetcode-mastery/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0287-find-the-duplicate-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/smishra0606/leetcode-mastery/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/smishra0606/leetcode-mastery/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/smishra0606/leetcode-mastery/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/smishra0606/leetcode-mastery/tree/master/0877-stone-game) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/smishra0606/leetcode-mastery/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/smishra0606/leetcode-mastery/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/smishra0606/leetcode-mastery/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/smishra0606/leetcode-mastery/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/smishra0606/leetcode-mastery/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/smishra0606/leetcode-mastery/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Merge Sort
