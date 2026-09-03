@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/smishra0606/leetcode-mastery/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1137-n-th-tribonacci-number](https://github.com/smishra0606/leetcode-mastery/tree/master/1137-n-th-tribonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/smishra0606/leetcode-mastery/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/smishra0606/leetcode-mastery/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/smishra0606/leetcode-mastery/tree/master/2073-time-needed-to-buy-tickets) |
 | [2239-find-closest-number-to-zero](https://github.com/smishra0606/leetcode-mastery/tree/master/2239-find-closest-number-to-zero) |
 | [2241-design-an-atm-machine](https://github.com/smishra0606/leetcode-mastery/tree/master/2241-design-an-atm-machine) |
+| [3875-construct-uniform-parity-array-i](https://github.com/smishra0606/leetcode-mastery/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
