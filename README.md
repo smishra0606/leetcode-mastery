@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/smishra0606/leetcode-mastery/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/smishra0606/leetcode-mastery/tree/master/1137-n-th-tribonacci-number) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/smishra0606/leetcode-mastery/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/smishra0606/leetcode-mastery/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/smishra0606/leetcode-mastery/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/smishra0606/leetcode-mastery/tree/master/0633-sum-of-square-numbers) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/smishra0606/leetcode-mastery/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/smishra0606/leetcode-mastery/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/smishra0606/leetcode-mastery/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/smishra0606/leetcode-mastery/tree/master/0151-reverse-words-in-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/smishra0606/leetcode-mastery/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Stack
 |  |
 | ------- |
